@@ -12,5 +12,3 @@ Login with your account and explore your data in the Mac terminal inspired UI!
 > npm run dev
 
 Navigate to http://localhost:3000
-
-Another test...
