@@ -6,10 +6,10 @@
   "main": "src/index.js",
   "dependencies": {
     "axios": "^0.19.2",
-    "bulma": "^0.8.0",
+    "bulma": "^0.8.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-infinite-scroll-component": "^5.0.4",
+    "react-infinite-scroll-component": "^5.1.0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -29,7 +29,7 @@
   ],
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.18.3"
+    "eslint-plugin-react": "^7.21.5"
   },
   "proxy": "http://localhost:4000"
 }
